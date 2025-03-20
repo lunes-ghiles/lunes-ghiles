@@ -1,4 +1,4 @@
-# Hi there, I'm Lunes Maibeche, and welcome to my Github!
+# :wave: Hi there, I'm Lunes Maibeche, and welcome to my Github!
 
 I'm a UTSC Double Degree student and I'm mostly interested in coding projects related to finance and economics, with some projects more related to mathematics and statistics. Most recently, I'm trying to figure out how to implement course material into python and RStudio from courses such as Machine Learning, Statistics, Financial Derivatives and Risk Management.
 
