@@ -1,6 +1,6 @@
 # :wave: Hi there, I'm Lunes Maibeche, and welcome to my Github!
 
-I'm a UTSC Double Degree student and I'm mostly interested in coding projects related to finance and economics, with some projects more related to mathematics and statistics. Most recently, I'm trying to figure out how to implement course material into python and RStudio from courses such as Machine Learning, Statistics, Financial Derivatives and Risk Management.
+I'm a UTSC Double Degree student and I'm mostly interested in coding projects related to finance and economics, with other projects more related to mathematics and machine learning (Fancy Stats). Most recently, I'm trying to figure out how to implement course material into python and RStudio from courses such as Machine Learning, Statistics, Financial Derivatives and Risk Management.
 
 :telescope: Goals for the Future: I really want to buff out some of the projects I've worked on, which are mostly generalized frameworks for now, and actually apply them to specific cases. I also want to learn some JavaScript, HTML and React, to get some idea of what web development and app development is like and some C, to better understand optimizing programs.
 
